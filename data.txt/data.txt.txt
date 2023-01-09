@@ -1,0 +1,26 @@
+{
+"email":"vaibhavvishal277@gmail.com",
+"jobTitle":"java developer",
+"name":"vaibhav",
+"phone":"12783456"
+}
+
+{
+"email":"ghsdk@gmail.com",
+"jobTitle":"spring",
+"name":"vakncslk",
+"phone":"12783456"
+}
+
+{
+"email":"vaibhav277@gmail.com",
+"jobTitle":"developer",
+"name":"rahul",
+"phone":"12783456"
+}
+
+{"email":"vail27@gmail.com",
+"jobTitle":"java",
+"name":"vaibcsv",
+"phone":"12783456"
+}
